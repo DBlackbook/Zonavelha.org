@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>My Cool Website</title>
+      My Cool Website
    </head>
    <body>
       <h1>Welcome to my website! ⭐️</h1>
